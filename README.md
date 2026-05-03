@@ -9,7 +9,7 @@ Atualmente focado em construir aplicações web funcionais, com código organiza
 
 ## 🚀 Sobre mim
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2025 - 2026)
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2025 - 2028)
 * 🎓 Formado em Ciências Biológicas
 * 🔄 Em transição de carreira para tecnologia
 * 📚 Estudando e aplicando na prática HTML, CSS e JavaScript
