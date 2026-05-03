@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Willchard Rodrigues
 
-<!--
-**willchardwilliam/willchardwilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Frontend em formação
+📍 Cabo Frio - RJ, Brasil
 
-Here are some ideas to get you started:
+Atualmente focado em construir aplicações web funcionais, com código organizado e foco em experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2025 - 2026)
+* 🎓 Formado em Ciências Biológicas
+* 🔄 Em transição de carreira para tecnologia
+* 📚 Estudando e aplicando na prática HTML, CSS e JavaScript
+* 🎯 Foco em me tornar um desenvolvedor frontend profissional
+
+---
+
+## 🛠️ Tecnologias
+
+**Frontend:**
+
+* HTML5
+* CSS3 (Flexbox, Grid, Responsividade)
+* JavaScript (ES6+)
+
+**Ferramentas:**
+
+* Git & GitHub
+* Node.js
+* VS Code
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 [Agenda Studio](https://willchardwilliam.github.io/agenda_studio/)
+
+Sistema de cadastro de clientes com funcionalidades completas de CRUD.
+
+* Persistência com Local Storage
+* Manipulação de DOM
+* Código organizado e modular
+
+---
+
+### 🔹 [Animais Fantásticos](https://willchardwilliam.github.io/animais_fantasticos/)
+
+Projeto focado em interatividade e manipulação de elementos da página.
+
+* Eventos e navegação dinâmica
+* Estrutura organizada de scripts
+* Interface moderna
+
+---
+
+### 🔹 [Quiz Interativo](https://willchardwilliam.github.io/quiz/)
+
+Aplicação de perguntas e respostas com lógica condicional.
+
+* Controle de fluxo do usuário
+* Atualização dinâmica da interface
+* Foco em experiência do usuário
+
+---
+
+## 📈 Em evolução
+
+Atualmente estudando:
+
+* ⚛️ React
+* 🔗 Consumo de APIs
+* 🧠 Boas práticas de arquitetura frontend
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (colocar aqui)
+* Email: (colocar aqui)
+
+---
+
+## ⚡ Objetivo
+
+Conseguir minha primeira oportunidade como desenvolvedor frontend e evoluir continuamente construindo projetos reais.
