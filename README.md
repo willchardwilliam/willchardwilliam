@@ -77,8 +77,8 @@ Atualmente estudando:
 
 ## 📫 Contato
 
-* LinkedIn: (colocar aqui)
-* Email: (colocar aqui)
+* LinkedIn: https://www.linkedin.com/in/willchard-rodrigues-a990b1289/
+* Email: willchardwilliam@gmail.com
 
 ---
 
