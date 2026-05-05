@@ -24,6 +24,8 @@ Atualmente focado em construir aplicações web funcionais, com código organiza
 * HTML5
 * CSS3 (Flexbox, Grid, Responsividade)
 * JavaScript (ES6+)
+* Fetch Api
+* JSON
 
 **Ferramentas:**
 
